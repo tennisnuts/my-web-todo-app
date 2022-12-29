@@ -1,1 +1,2 @@
-streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1671128521544/work
+# streamlit @ file:///home/conda/feedstock_root/build_artifacts/streamlit_1671128521544/work
+streamlit==1.16.0
