@@ -1,0 +1,9 @@
+name: /Users/oliver/Documents/My Documents/Python Courses/Python Mega Course/New Course/web-app-1/.conda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - streamlit
+prefix: /Users/oliver/Documents/My Documents/Python Courses/Python Mega Course/New
+  Course/web-app-1/.conda
